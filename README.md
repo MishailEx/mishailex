@@ -11,16 +11,17 @@ ____
 - Maven
 - PostgreSQL
 #### Projects:
-1. [Job grabber(HTML Parser using JSOP)](http://example.com)
-2. [TodoList using Servlet API & Hibernate](http://example.com)
-3. [Car market using Servlet API & Hibernate](http://example.com)
-4. [Job market using Servlet API & Hibernate](http://example.com)
-5. [Car accident registration app using Spring](http://example.com)
-6. [Forum using Spring](http://example.com)
-7. [REST API for TodoList using Spring](http://example.com)
-8. [Publications & Articles searcher using Spring](http://example.com)
-9. [Job grabber(HTML Parser using JSOP)](http://example.com)
-10. [URL Shortcut service using Spring](http://example.com)
+1. [Exchange Rates using Spring, webflux. Architecture: Microservices, Rest](https://github.com/MishailEx/exchangeRates)
+2. [URL Shortcut service using Spring](https://github.com/MishailEx/job4j_url_shortcut)
+3. [TodoList using Spring & Hibernate](https://github.com/MishailEx/todo)
+4. [Chat using Spring. Architecture: Rest API](https://github.com/MishailEx/job4j_chat)
+5. [Cinema using Spring & Hibernate](https://github.com/MishailEx/cinema)
+6. [Car accident registration app using Spring](https://github.com/MishailEx/job4j_car_accident)
+7. [Car market using Servlet API & Hibernate](https://github.com/MishailEx/job4j_cars)
+8. [Job market using Servlet API & Hibernate](https://github.com/MishailEx/job4j_dreamjob)
+9. [Car accident registration app using Spring](https://github.com/MishailEx/job4j_car_accident)
+10. [Forum using Spring](https://github.com/MishailEx/job4j_forum)
+11. [Job grabber(HTML Parser using JSOP)](https://github.com/MishailEx/job4j_grabber)
 ____
 ![MishailEx GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mishailex&show_icons=true&locale=en&layout=compact)
 ![MishailEx GitHub stats](https://github-readme-stats.vercel.app/api?username=mishailex&hide=prs,issues,stars,contributions)
