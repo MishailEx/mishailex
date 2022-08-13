@@ -12,7 +12,7 @@ ____
 - PostgreSQL
 #### Projects:
 1. [Exchange Rates using Spring, webflux. Architecture: Microservices, Rest](https://github.com/MishailEx/exchangeRates)
-2. [URL Shortcut service using Spring](https://github.com/MishailEx/job4j_url_shortcut)
+2. [URL Shortcut service using Spring. Architecture: Rest](https://github.com/MishailEx/job4j_url_shortcut)
 3. [TodoList using Spring & Hibernate](https://github.com/MishailEx/todo)
 4. [Chat using Spring. Architecture: Rest API](https://github.com/MishailEx/job4j_chat)
 5. [Cinema using Spring & Hibernate](https://github.com/MishailEx/cinema)
