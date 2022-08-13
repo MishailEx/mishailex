@@ -4,4 +4,4 @@ About me
 - I learn Java at Job4j 
 - My Java expirience is 1 years
 
-[http://example.com/]: http://example.com/
+[example.com](http://example.com)
