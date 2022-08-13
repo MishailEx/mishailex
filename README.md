@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 My name is Michael. Welcome!
+About me
+- I am 33 year old programmer from Saint Petersburg
+- I learn Java at Job4j 
+- My Java expirience is 1 years
 
-<!--
 **MishailEx/mishailex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
