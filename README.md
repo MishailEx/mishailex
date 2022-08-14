@@ -21,7 +21,7 @@ ____
 8. [Job market using Servlet API & Hibernate](https://github.com/MishailEx/job4j_dreamjob)
 9. [Car accident registration app using Spring](https://github.com/MishailEx/job4j_car_accident)
 10. [Forum using Spring](https://github.com/MishailEx/job4j_forum)
-11. [Job grabber(HTML Parser using JSOP)](https://github.com/MishailEx/job4j_grabber)
+11. [Job grabber(HTML Parser)](https://github.com/MishailEx/job4j_grabber)
 ____
 ![MishailEx GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mishailex&show_icons=true&locale=en&layout=compact)
 ![MishailEx GitHub stats](https://github-readme-stats.vercel.app/api?username=mishailex&hide=prs,issues,stars,contributions)
