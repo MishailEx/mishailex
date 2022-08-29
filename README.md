@@ -5,11 +5,14 @@
 - My Java expirience is 1 years
 ____
 #### Core technologies:
-- Java
-- Spring
+- Java (core, stream API, multithreading)
+- Spring (boot, mvc, data, security)
 - Hibernate
-- Maven
-- PostgreSQL
+- Git, Maven, Tomcat
+- PostgreSQL, соблюдение требований ACID 
+- HTML, CSS, JS
+- Принципы проектирования SOLID 
+- Docker
 #### Projects:
 1. [Exchange Rates using Spring, webflux. Architecture: Microservices, Restful](https://github.com/MishailEx/exchangeRates)
 2. [URL Shortcut service using Spring. Architecture: Restful](https://github.com/MishailEx/job4j_url_shortcut)
