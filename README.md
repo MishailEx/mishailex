@@ -2,7 +2,7 @@
 #### About me
 - I am 33 year old programmer from Saint Petersburg
 - I learn Java at Job4j :memo:
-- My Java expirience is 1 years
+- My Java expirience is 2.5 years
 ____
 #### Core technologies:
 - Java (core, stream API, multithreading)
