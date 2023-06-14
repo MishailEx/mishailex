@@ -14,7 +14,7 @@ ____
 - Принципы проектирования SOLID 
 - Docker
 #### Projects:
-1. [Autorent website using Spring, webflux, WebSocket, RabbitMq, MongoDb, PostgresQL. Architecture: Microservices, Restful](https://github.com/MishailEx/rent-car-app)
+1. [Autorent website using Spring, Project Reactor(WebFlux, Functional Endpoints), WebSocket, RabbitMq, MongoDb, PostgresQL. Architecture: Microservices, Restful](https://github.com/MishailEx/rent-car-app)
 2. [Exchange Rates using Spring, webflux. Architecture: Microservices, Restful](https://github.com/MishailEx/exchangeRates)
 3. [URL Shortcut service using Spring. Architecture: Restful](https://github.com/MishailEx/job4j_url_shortcut)
 4. [TodoList using Spring & Hibernate](https://github.com/MishailEx/todo)
