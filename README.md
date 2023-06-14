@@ -10,7 +10,8 @@ ____
 - Hibernate
 - Git, Maven, Tomcat
 - PostgreSQL, соблюдение требований ACID 
-- HTML, CSS, JS
+- MongoDB
+- HTML, CSS, JS(vue.js)
 - Принципы проектирования SOLID 
 - Docker
 #### Projects:
