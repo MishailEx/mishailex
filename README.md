@@ -6,7 +6,7 @@
 ____
 #### Core technologies:
 - Java (core, stream API, multithreading, WebFlux)
-- Spring (boot, mvc, data, security, api gateway, eureka, config, feign, histryx)
+- Spring (boot, mvc, data, security, api gateway, eureka, config, feign, hystrix)
 - Hibernate
 - Git, Maven, Tomcat
 - PostgreSQL, соблюдение требований ACID 
